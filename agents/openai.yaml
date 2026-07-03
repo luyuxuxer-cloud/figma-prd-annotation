@@ -1,0 +1,4 @@
+interface:
+  display_name: "Figma PRD Annotation"
+  short_description: "Create polished Figma annotations from a final PRD"
+  default_prompt: "Use $figma-prd-annotation to annotate this Figma design from the final PRD."
